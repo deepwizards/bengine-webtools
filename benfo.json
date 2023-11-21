@@ -1,0 +1,8 @@
+{
+    "extension_name": "webtools",
+    "description": "use search and webscrap tools with bengine",
+    "modules": ["webtools"],
+    "services": ["webtools"],
+    "dataseeds": [],    
+    "version": "0.0.1"
+}
